@@ -7,6 +7,8 @@ adb shellを使用した非rootのGoogle Pixel向けのサーマルゾーンの�
 ```sh
 python3 dumptz.py
 ```
+Updates every 2 seconds.
+2秒間隔で更新されます
 ## 概要
 ```sh
 adb shell dumpsys thermalservice
