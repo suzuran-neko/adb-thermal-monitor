@@ -1,5 +1,6 @@
 # adb-thermal-monitor
 non rooted google pixel and other android devices thermal zones temperature monitor.
+
 adb shellを使用した非rootのGoogle Pixel向けのサーマルゾーンの温度を表示する簡易モニター
 
 ## How to use
